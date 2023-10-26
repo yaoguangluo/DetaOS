@@ -4,6 +4,14 @@
 稍后～
 准备基于mac os unix 上 开发。
 
+##### 问题
+###### 国内资源包下载速度慢
+###### host对应的raw ip变动后 容易污染dns 被不法商贩 使用后 成为钓鱼镜像
+###### 界面gui 展示不一致问题 jogl下载卡
+###### Please port CPU detection to your platform (mac os x/aarch64) java对应硬件版本问题需要下载国外资源包，卡顿。
+###### mac os x/aarch64 不支持 jacob 发音物理驱动，
+
+
 
 
 
